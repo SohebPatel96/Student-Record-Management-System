@@ -5,10 +5,16 @@ This project aims to simplify the management of student records through a user-f
 Key Features:
 
 Create: Add new student profiles effortlessly.
+
 Read: Retrieve and view existing records with ease.
+
 Update: Modify and update student information as needed.
+
 Delete: Remove entries securely from the database.
+
 Search: Seamlessly search and filter student data for quick access.
+
+
 Technical Details:
 The project employs the repository pattern to establish communication with the database. The entire system operates through APIs, ensuring a smooth and streamlined experience for users. As of now, there is no graphical user interface (UI) interaction, making it ideal for backend-focused applications.
 
